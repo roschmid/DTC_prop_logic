@@ -1,2 +1,3 @@
-# DTC_prop_logic
+# DTC Propositional Logic
+
 Propositional logic models for OECD MTC provisions.
