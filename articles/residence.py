@@ -1,8 +1,7 @@
 from transformers import pipeline
 
 def input_extraction(task):
-    """Function that gets from the user the desired input that will be sent to
-    the model and extracts relevant information."""
+    """Function that gets from the user the desired input that will be sent to the model and extracts relevant information."""
 
     print("="*100)
     context = input("\nPlease provide the case facts (subject name, individual or entity, residence, permanent home, CIV, habitual abode and nationality).\n\nUser: ")
@@ -33,8 +32,7 @@ def input_extraction(task):
     return name, subject, residence, permanent_home_exist, permanent_home, civ, habitual_abode, nationality
 
 def single_or_double_residence(name, residence):
-    """Function that receives as input the name of the subject as well as its residence to
-    determine which paragraph of Article 4 OECD MTC (2017) applies."""
+    """Function that receives as input the name of the subject as well as its residence to determine which paragraph of Article 4 OECD MTC (2017) applies."""
 
     double_residence = False
     single_residence = False
