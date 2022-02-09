@@ -1,6 +1,5 @@
 def employment_pipeline():
-    """Function that gets from the user the desired input that will be sent to
-    the model and extracts relevant information."""
+    """Function that gets from the user the desired input that will be sent to the model and extracts relevant information."""
 
     print("="*100)
     print("Employment Income Analysis")
