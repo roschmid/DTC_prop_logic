@@ -33,24 +33,27 @@ Here are a few examples from "residence.py" in order to illustrate how the progr
 >>> python residence.py
 ====================================================================================================
 
-Please provide the case facts (subject name, individual or entity, residence, permanent home, CIV, habitual abode and 
-nationality).
+Please provide the case facts (subject name, individual or entity, residence, permanent home, CIV, 
+habitual abode and nationality).
 
-User: Rafael Schmidt is an individual with residence both in Chile and Argentina, where he has also his permanent homes. 
-His center of vital interests lie only in Argentina where he has his family and friends.
+User: Rafael Schmidt is an individual with residence both in Chile and Argentina, where he has also
+his permanent homes. His center of vital interests lie only in Argentina where he has his family 
+and friends.
 ====================================================================================================
 
 Please indicate whether your subject is liable to tax or not.
 
 User (Yes/No): Yes
 
-Rafael Schmidt is an individual and is resident both in Chile and Argentina. The tiebreaker rules from Article 4(2) 
-are applicable.
+Rafael Schmidt is an individual and is resident both in Chile and Argentina. The tiebreaker rules 
+from Article 4(2) are applicable.
 
-(1) According to the information provided, Rafael Schmidt has a permanent home both in Chile and Argentina.
+(1) According to the information provided, Rafael Schmidt has a permanent home both in Chile and
+Argentina. 
 Hence, pursuant to Article 4(2)(a), it must be determined where his center of vital interests lie.
 
-(2) According to the information provided, Rafael Schmidt has his/her center of vital interests only in Argentina.
+(2) According to the information provided, Rafael Schmidt has his/her center of vital interests 
+only in Argentina.
 Hence, pursuant to Article 4(2)(a), Rafael Schmidt shall be considered to be a resident of Argentina.
 ====================================================================================================
 ```
