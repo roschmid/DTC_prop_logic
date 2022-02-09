@@ -186,5 +186,3 @@ def main():
                     entity_residence_pipeline(name, subject, residence)
         else:
             print(f"\n{name} cannot be a resident of {residence} for treaty purposes subject to Article 4(1), first paragraph, as he is not liable to tax.")
-            
-main()
