@@ -30,6 +30,7 @@ These models obtain information from the user and extract key aspects of the use
 Here are a few examples from "residence.py" in order to illustrate how the program works and the information it expects from the user:
 
 ```python
+>>> python residence.py
 ====================================================================================================
 
 Please provide the case facts (subject name, individual or entity, residence, permanent home, CIV, habitual abode and 
