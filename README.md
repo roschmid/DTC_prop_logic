@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# Tax Treaty Provisions to Propositional Logic
+# Tax Treaty Provisions to Code
 
 This repository is an attempt to transpose and automate the application of Double Taxation Treaty provisions based on the OECD Model Tax Convention (2017).
 
