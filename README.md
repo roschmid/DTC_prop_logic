@@ -21,6 +21,7 @@ This repository is an attempt to transpose and automate the application of Doubl
 Articles transposed:
 
 * Article 4: Residence.
+* Article 7: Business Profits.
 * Article 15: Employment Income.
 
 These models obtain information from the user and extract key aspects of the user inputs using the 🤗 Transformers library via question-answering tasks.
