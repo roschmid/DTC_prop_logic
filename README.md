@@ -22,6 +22,7 @@ Articles transposed:
 
 * Article 4: Residence.
 * Article 7: Business Profits.
+* Article 9: Associated Enterprises.
 * Article 15: Employment Income.
 
 These models obtain information from the user and extract key aspects of the user inputs using the 🤗 Transformers library via question-answering tasks.
